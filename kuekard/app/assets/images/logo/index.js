@@ -1,0 +1,10 @@
+exports.k = require('./kuekard-k.png');
+exports.kAlt = require('./kuekard-k-alt.png');
+exports.u = require('./kuekard-u.png');
+exports.e = require('./kuekard-e.png');
+exports.cardBack = require('./kuekard-card.png');
+exports.cardLight = require('./kuekard-card-light.png');
+exports.cardDark = require('./kuekard-card-dark.png');
+exports.a = require('./kuekard-a.png');
+exports.r = require('./kuekard-r.png');
+exports.d = require('./kuekard-d.png');

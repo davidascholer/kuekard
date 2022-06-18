@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "kuekard",
+    "slug": "kuekard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "usesAppleSignIn": true,
+      "bundleIdentifier": "com.vamplitude.kuekard",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.vamplitude.kuekard",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "facebookScheme":"fb840368473279180",
+    "facebookAppId":"840368473279180",
+    "facebookDisplayName":"kuekard"
+  }
+}

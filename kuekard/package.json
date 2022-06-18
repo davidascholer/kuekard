@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.9",
+    "@react-native-community/netinfo": "^6.0.0",
+    "@react-navigation/drawer": "^6.1.7",
+    "@react-navigation/native": "^6.0.4",
+    "@react-navigation/native-stack": "^6.2.2",
+    "apisauce": "^2.1.2",
+    "expo": "~42.0.1",
+    "expo-apple-authentication": "^3.2.1",
+    "expo-facebook": "^11.3.1",
+    "expo-google-app-auth": "^8.2.2",
+    "expo-status-bar": "~1.0.4",
+    "formik": "^2.2.9",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-color-picker": "^0.6.0",
+    "react-native-dotenv": "^3.2.0",
+    "react-native-dropdown-picker": "^5.2.3",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.2.2",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-web": "~0.13.12",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
